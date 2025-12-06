@@ -43,15 +43,9 @@ cd freepostindia
 npm install
 ```
 
-### 2. Supabase Setup
+### 2. turso Setup
 
-1. Create a new Supabase project at [supabase.com](https://supabase.com)
-2. Go to Settings > API to get your URL and anon key
-3. Copy `.env.example` to `.env` and add your credentials:
 
-```env
-VITE_SUPABASE_URL=https://your-project.supabase.co
-VITE_SUPABASE_ANON_KEY=your_anon_key
 ```
 
 ### 3. Database Setup
