@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FreePostIndia.com - Latest Classifieds</title>
+    <link>https://freepostindia.com</link>
+    <description>Latest free classified ads from FreePostIndia.com - Buy and sell cars, electronics, jobs, services and more across India</description>
+    <language>en-IN</language>
+    <copyright>Copyright 2025 FreePostIndia.com</copyright>
+    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0530</lastBuildDate>
+    <ttl>60</ttl>
+    <atom:link href="https://freepostindia.com/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Latest Classified Ads</title>
+      <link>https://freepostindia.com</link>
+      <description>Browse the latest free classified advertisements on FreePostIndia.com</description>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0530</pubDate>
+      <guid>https://freepostindia.com/latest</guid>
+    </item>
+  </channel>
+</rss>
